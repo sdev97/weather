@@ -1,0 +1,36 @@
+/* Global */
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+hr {
+    border: 1px solid white;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.green {
+    background-color: green;
+}
+
+.red {
+    background-color: red;
+}
+
+.normal-size-icon {
+    width: 30px;
+    height: 30px;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.bd-15 {
+    border-radius: 15px;
+}
